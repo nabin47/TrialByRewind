@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CourtScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/First choice.unity
+    guid: fc9344f16e0e4f04b84fd41a5ab0d392
+  - enabled: 1
+    path: Assets/Scenes/ExecutionScene.unity
+    guid: 2bdbbb15549f88b439281ffea311fd8f
+  - enabled: 1
+    path: Assets/Scenes/Paradis.unity
+    guid: ee426d6a160c9864b8e0794046cf603c
+  - enabled: 1
+    path: Assets/Scenes/BIgBang.unity
+    guid: 6e32afd06bc99f64880f4a18c0a244a3
+  m_configObjects: {}
